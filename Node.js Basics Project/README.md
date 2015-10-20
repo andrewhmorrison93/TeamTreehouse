@@ -1,0 +1,1 @@
+Project for Team Treehouse that uses the treehouse API to return the number of badges and points in Javascript for a given user.
